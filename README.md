@@ -138,4 +138,4 @@ This project helped me move beyond simply training a model. It taught me how to:
 
 ## Author
 
-Kirti — [LinkedIn](www.linkedin.com/in/kirti-srivastava-16a7a3290) | [GitHub]((https://github.com/kirti-050))
+Kirti — LinkedIn: [(www.linkedin.com/in/kirti-srivastava-16a7a3290)] | GitHub: [(https://github.com/kirti-050)]
