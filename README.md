@@ -138,7 +138,4 @@ This project helped me move beyond simply training a model. It taught me how to:
 
 ## Author
 
-Kirti — [LinkedIn](www.linkedin.com/in/kirti-srivastava-16a7a3290) | [GitHub](#)
-## How to Run
-
-1. Clone this repository
+Kirti — [LinkedIn](www.linkedin.com/in/kirti-srivastava-16a7a3290) | [GitHub]((https://github.com/kirti-050))
