@@ -131,7 +131,7 @@ This project helped me move beyond simply training a model. It taught me how to:
 ## How to Run
 
 1. Clone this repository
-   git clone <your-repo-url>
+   git clone https://github.com/kirti-050/telco-customer-churn-prediction
 2. Install dependencies
    pip install -r requirements.txt
 3. Open `telco_customer_churn_analysis.ipynb` in Jupyter or Google Colab and run all cells
